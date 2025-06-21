@@ -30,8 +30,6 @@ A backend chatbot system built using **Java Spring Boot**, integrated with **Fir
 
 ## 📁 Project Structure
 
-## 📁 Project Structure
-
 src/
 ├── main/
 │   ├── java/
