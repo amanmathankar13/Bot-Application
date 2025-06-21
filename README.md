@@ -30,3 +30,20 @@ A backend chatbot system built using **Java Spring Boot**, integrated with **Fir
 
 ## 📁 Project Structure
 
+## 📁 Project Structure
+
+src/
+├── main/
+│   ├── java/
+│   │   └── com/
+│   │       └── example/
+│   │           └── whatsappbot/
+│   │               ├── controller/         # REST APIs
+│   │               ├── service/            # Chatbot logic
+│   │               ├── model/              # Data models (DTOs)
+│   │               └── config/             # Firebase config
+│   └── resources/
+│       ├── application.properties
+│       └── firebase-service-account.json   # 🔒 Not included in Git
+
+
